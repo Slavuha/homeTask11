@@ -11,6 +11,9 @@ Dog dog2 = new Dog(" Richik");
 dog2.play();
 Lion lion = new Lion(" Leva");
 lion.hunting();
+VeryBigDog veryBigDog = new VeryBigDog("R");
+veryBigDog.play();
+
     }
 }
 

@@ -16,17 +16,6 @@ public abstract class Animal {
     }
 }
 
-interface Pet{
-    public void feed();
-    public void walk();
-    public void play();
-
-}
-
-interface WildAnimal{
-    public void hunting();
-}
-
 
 
 

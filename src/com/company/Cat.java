@@ -4,7 +4,7 @@ class Cat extends Animal implements Pet {
 
     @Override
     public void greets() {
-
+        System.out.println("Cat" + getName() + "says Meoy");
     }
 
     public Cat(String name) {
